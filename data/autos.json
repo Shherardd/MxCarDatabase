@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "marca": "Nissan",
+    "modelo": "Sentra",
+    "anio": 2024,
+    "tipo": "Sedan",
+    "precio": 390000,
+    "colores": ["Blanco", "Negro", "Rojo"],
+    "versiones": ["Sense", "Advance", "Exclusive"]
+  },
+  {
+    "id": 2,
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "anio": 2024,
+    "tipo": "Sedan",
+    "precio": 420000,
+    "colores": ["Plata", "Negro", "Azul"],
+    "versiones": ["Base", "SE", "XLE"]
+  },
+  {
+    "id": 3,
+    "marca": "Honda",
+    "modelo": "Civic",
+    "anio": 2024,
+    "tipo": "Sedan",
+    "precio": 450000,
+    "colores": ["Gris", "Rojo", "Negro"],
+    "versiones": ["LX", "Sport", "Touring"]
+  },
+  {
+    "id": 4,
+    "marca": "Mazda",
+    "modelo": "CX-5",
+    "anio": 2024,
+    "tipo": "SUV",
+    "precio": 560000,
+    "colores": ["Rojo", "Gris", "Blanco"],
+    "versiones": ["iSport", "iGrand Touring", "Signature"]
+  },
+  {
+    "id": 5,
+    "marca": "Kia",
+    "modelo": "Seltos",
+    "anio": 2024,
+    "tipo": "SUV",
+    "precio": 430000,
+    "colores": ["Negro", "Amarillo", "Blanco"],
+    "versiones": ["LX", "EX", "GT-Line"]
+  },
+  {
+    "id": 6,
+    "marca": "Volkswagen",
+    "modelo": "Jetta",
+    "anio": 2024,
+    "tipo": "Sedan",
+    "precio": 400000,
+    "colores": ["Azul", "Blanco", "Negro"],
+    "versiones": ["Trendline", "Comfortline", "Highline"]
+  },
+  {
+    "id": 7,
+    "marca": "Ford",
+    "modelo": "Bronco Sport",
+    "anio": 2024,
+    "tipo": "SUV",
+    "precio": 720000,
+    "colores": ["Verde", "Negro", "Arena"],
+    "versiones": ["Big Bend", "Outer Banks", "Badlands"]
+  },
+  {
+    "id": 8,
+    "marca": "Chevrolet",
+    "modelo": "Onix",
+    "anio": 2024,
+    "tipo": "Hatchback",
+    "precio": 350000,
+    "colores": ["Rojo", "Plata", "Blanco"],
+    "versiones": ["LS", "LT", "Premier"]
+  },
+  {
+    "id": 9,
+    "marca": "Hyundai",
+    "modelo": "Tucson",
+    "anio": 2024,
+    "tipo": "SUV",
+    "precio": 500000,
+    "colores": ["Gris", "Blanco", "Azul"],
+    "versiones": ["GLS", "Limited", "Ultimate"]
+  },
+  {
+    "id": 10,
+    "marca": "Jeep",
+    "modelo": "Compass",
+    "anio": 2024,
+    "tipo": "SUV",
+    "precio": 650000,
+    "colores": ["Negro", "Gris", "Rojo"],
+    "versiones": ["Sport", "Longitude", "Limited"]
+  }
+]
