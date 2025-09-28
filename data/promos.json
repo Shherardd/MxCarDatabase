@@ -4,23 +4,87 @@
     "titulo": "Descuento otoño",
     "descripcion": "Hasta 15% de descuento en SUVs seleccionadas",
     "vigencia": "2025-12-31",
-    "imagen": "https://via.placeholder.com/600x300.png?text=Promo+1",
-    "url": "https://ejemplo.com/promo/otono"
+    "imagen": "https://scontent.fmex4-2.fna.fbcdn.net/v/t45.1600-4/543405837_1446464479978536_2451039958787283311_n.png?stp=c0.19.1200.590a_cp0_dst-jpg_q90_s843x403_spS444_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c02adf&_nc_ohc=AZ-0AZy55RgQ7kNvwHIS_gp&_nc_oc=AdmT95SaMNnM3oAWCqdOKfxA87djUv1dKF1miZ9yzYlE-v7uChsxD4KozaX77iUlYeE&_nc_zt=1&_nc_ht=scontent.fmex4-2.fna&_nc_gid=bfxrOyrkY4vft8z_K59_gQ&oh=00_Afa7avzewB6e_wCRyOKXMqQqtuVgzP9DUK8M9RdCWmEHCw&oe=68DE7BA4",
+    "url": "https://github.com/Shherardd"
   },
   {
     "id": 2,
     "titulo": "0% de interés",
     "descripcion": "Financiamiento a 12 meses sin intereses en autos compactos",
     "vigencia": "2025-10-30",
-    "imagen": "https://via.placeholder.com/600x300.png?text=Promo+2",
-    "url": "https://ejemplo.com/promo/financiamiento"
+    "imagen": "https://scontent.fmex4-2.fna.fbcdn.net/v/t45.1600-4/530627177_1335284601265285_4009733035750029966_n.png?stp=c0.95.1920.943a_cp0_dst-jpg_q90_s843x403_spS444_tt6&_nc_cat=102&ccb=1-7&_nc_sid=50b3b3&efg=eyJxZV9ncm91cHMiOlsibm9fc2FmZV9pbWFnZV9mb3JfYWRzX2ltYWdlIl19&_nc_ohc=7rtnnkhHUtoQ7kNvwE7G8H-&_nc_oc=Admom2FW2Xs7AXCvd_KFsLa4KaaX9X3PBA3Jdd28pF8k8fcdT_iMBfHibAWFTFBDAJQ&_nc_zt=1&_nc_ht=scontent.fmex4-2.fna&_nc_gid=-nDoJZEfsj_tWM3hYQDXNA&oh=00_Afad0h5nPoaJZOraihhBFdrPFuqRT8YbjuIV-G1Ska_-Yg&oe=68DE8643",
+    "url": "https://www.google.com/"
   },
   {
     "id": 3,
     "titulo": "Bonos de lealtad",
     "descripcion": "Recibe $20,000 MXN de bono al cambiar tu auto usado",
     "vigencia": "2025-11-15",
-    "imagen": "https://via.placeholder.com/600x300.png?text=Promo+3",
-    "url": "https://ejemplo.com/promo/bono-lealtad"
+    "imagen": "hhttps://scontent.fmex4-2.fna.fbcdn.net/v/t1.6435-9/130753001_4146643748684564_8652100506868028072_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=H-ycx8UK7u4Q7kNvwHYNr2h&_nc_oc=AdlLH2jHBQg35iZe4C2GX7SCcoO9sqNN6RyJbTKWgPLpIBNVsJKK8rHbGzEGImhsVu0&_nc_zt=23&_nc_ht=scontent.fmex4-2.fna&_nc_gid=eDSMshhPuNH4ktEFa3vYPA&oh=00_AfZgkcLFsUmOjcqEEc1Wr5yoL1PoO771VjqC2VrHh7LBNg&oe=69004E86",
+    "url": "https://www.google.com/"
+  },
+  {
+    "id": 4,
+    "titulo": "Bonos de lealtad",
+    "descripcion": "Recibe $20,000 MXN de bono al cambiar tu auto usado",
+    "vigencia": "2025-11-15",
+    "imagen": "https://www.chevrolet.com.mx/content/dam/chevrolet/na/mx/es/index/promociones-mh/01-images/promociones-2025/suvs/mh-2500x1000-flexclusive-captiva.jpg?imwidth=920",
+    "url": "https://www.google.com/"
+  },
+  {
+    "id": 5,
+    "titulo": "Bonos de lealtad",
+    "descripcion": "Recibe $20,000 MXN de bono al cambiar tu auto usado",
+    "vigencia": "2025-11-15",
+    "imagen": "https://cdn.geelymexico.com/storage/promociones/2025/09-septiembre/imagenes/geely-emgrand-promo-septiembre-04.webp",
+    "url": "https://www.google.com/"
+  },
+  {
+    "id": 6,
+    "titulo": "Bonos de lealtad",
+    "descripcion": "Recibe $20,000 MXN de bono al cambiar tu auto usado",
+    "vigencia": "2025-11-15",
+    "imagen": "https://autoanalitica.com.mx/wp-content/uploads/2023/09/IMG_0088.jpeg",
+    "url": "https://www.google.com/"
+  },
+  {
+    "id": 7,
+    "titulo": "Bonos de lealtad",
+    "descripcion": "Recibe $20,000 MXN de bono al cambiar tu auto usado",
+    "vigencia": "2025-11-15",
+    "imagen": "https://cazaofertas.com.mx/wp-content/uploads/2020/04/Toyota-junio-010420-01.jpg",
+    "url": "https://www.google.com/"
+  },
+  {
+    "id": 8,
+    "titulo": "Bonos de lealtad",
+    "descripcion": "Recibe $20,000 MXN de bono al cambiar tu auto usado",
+    "vigencia": "2025-11-15",
+    "imagen": "https://autobusesmercedesbenz.com.mx/wp-content/uploads/2020/06/slidenuevo.jpg",
+    "url": "https://www.google.com/"
+  },
+  {
+    "id": 9,
+    "titulo": "Bonos de lealtad",
+    "descripcion": "Recibe $20,000 MXN de bono al cambiar tu auto usado",
+    "vigencia": "2025-11-15",
+    "imagen": "https://scontent.fmex4-2.fna.fbcdn.net/v/t1.6435-9/187650021_4524589990890968_63285696621965424_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=3a1ebe&_nc_ohc=q0yK2UdzCnoQ7kNvwE6wQzF&_nc_oc=AdnTRjSe_TcvgR1Umwq5WBq1OlCaBefm4NyN5tPuXC0FZVBno2ECdZDarDYPAY9WJSI&_nc_zt=23&_nc_ht=scontent.fmex4-2.fna&_nc_gid=PtXfELwOu_f92VVnwPPCEQ&oh=00_AfaBy-lO2NsX5bMJZ17OtTXmI5LtQ27KJDqvOGk8azqbSg&oe=6900552E",
+    "url": "https://www.google.com/"
+  },
+  {
+    "id": 10,
+    "titulo": "Bonos de lealtad",
+    "descripcion": "Recibe $20,000 MXN de bono al cambiar tu auto usado",
+    "vigencia": "2025-11-15",
+    "imagen": "https://www.renaultframework.com/resourcefiles/framework-promociones-tab-section-images-new/duster-prom-sep.jpg",
+    "url": "https://www.google.com/"
+  },
+  {
+    "id": 11,
+    "titulo": "Bonos de lealtad",
+    "descripcion": "Recibe $20,000 MXN de bono al cambiar tu auto usado",
+    "vigencia": "2025-11-15",
+    "imagen": "https://www.renaultframework.com/resourcefiles/framework-promociones-tab-section-images-new/kwid-new.jpg",
+    "url": "https://www.google.com/"
   }
 ]
